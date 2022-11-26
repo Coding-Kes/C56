@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+.img
+{
+    width: 500px;
+    height: 400px;
+    margin: 50px;
+}
+
+p
+{
+ font-weight:bold;
+ font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+}
